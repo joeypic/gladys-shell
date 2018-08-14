@@ -1,6 +1,10 @@
+var exec =
+
 module.exports = function(sails) {
 
-    return {
+  var exec = require('./lib/exec.js');
 
+    return {
+        exec: exec
     };
 };
