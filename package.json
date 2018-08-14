@@ -1,0 +1,11 @@
+{
+  "name": "gladys-shell-executer",
+  "version": "0.0.1",
+  "description": "Gladys module to execute shell command",
+  "main": "index.js",
+  },
+  "author": "Mathis Tondenier",
+  "dependencies": {
+    "shelljs": "^0.8.2
+  }
+}
