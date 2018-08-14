@@ -2,4 +2,8 @@
 
 Gladys-shell-executer est un module gladys permettant d'executer des commandes linux depuis l'interface gladys.
 
-Je suis tres mauvais en JS et je n'ai que 15 ans alors si vous pouviez m'aider ce serai gentil de votre part.
+vous n'avez qu'a installer le module et créer un device comme ceci 
+
+||Nom = Nom du device || identifier = la commande a éxecuter || protocole = shell || Service = shell ||
+
+Cette description basique sera amelioré dans le futur.
