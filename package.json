@@ -1,9 +1,8 @@
 {
   "name": "gladys-shell-executer",
   "version": "0.0.1",
-  "description": "Gladys module to execute shell command",
+  "description": "permet a gladys d'executer des commandes linux",
   "main": "index.js",
-  },
-  "author": "Mathis Tondenier",
-  }
+  "author": "mathis tondenier"
+
 }
