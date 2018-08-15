@@ -1,6 +1,6 @@
-# Gladys-shell-executer
+# Gladys-shell
 
-Gladys-shell-executer est un module gladys permettant d'executer des commandes linux depuis l'interface gladys.
+Gladys-shell est un module gladys permettant d'executer des commandes linux depuis l'interface gladys.
 
 vous n'avez qu'a installer le module et créer un device comme ceci 
 
