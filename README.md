@@ -1,21 +1,19 @@
 # Gladys-shell
 
-Gladys-shell est un module gladys permettant d'executer des commandes linux depuis l'interface gladys.
+Gladys-Shell is a module allowing to execute linux commands from the Gladys interface.
 
-# Comment L'utiliser :
+## Installation:
 
-  vous n'avez qu'a installer le module et créer un device comme ceci 
+* install the module 
+* restart Gladys.
+* Create a device like this one: 
+ * Name = Device name ||| identifier = command to be executed ||| protocol = shell ||| Service = shell |||
 
-  ||   Nom = Nom du device   ||   identifier = la commande a éxecuter   ||   protocole = shell   ||   Service = shell   ||
+* go to edit and create a devicetype like that:
+    * type: binary 
+    * max: 1
+    * min: 0
 
-
-  ensuite allez dans edit et créez un devicetype comme ça :
-
-  type: binary
-  max: 1
-  min: 0
-
-  Voila maintenant vous pouvez executer des commandes avec Gladys.
-  
+Now you can execute command with Gladys.
 
 
